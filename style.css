@@ -1,113 +1,111 @@
-body{
-    background-image:url(colorido.gif);
-    background-size:repeat;
-    background-position: center;
-    font-family:verdana,arial;
-    max-width: 700px;
-    margin: auto;
+body {
+  background-image: url(img/colorido.gif);
+  background-size: repeat;
+  background-position: center;
+  font-family: verdana, arial;
+  max-width: 700px;
+  margin: auto;
 
 
 }
 
-
-  
-  #title, .subtitle, .post_title{
-      color:black;
-  }
-
-
-  .header_image{
-    border-radius: 20px;
-    border: 1px solid purple;
-    width:100%;
-    
-  }
-
-  
-   #title{
-    font-size: 40px;
-    text-transform:uppercase;
-    font-style:italic;
-   }
+#title,
+.subtitle,
+.post_title {
+  color: black;
+}
 
 
-   #title{
-    border-radius: 0px;
-    font-family: cursive;
-    background-color:black;
-    border:purple 3px solid; 
-    margin-top: 20px; 
-    text-align: center;
-    color:white;
-  }
+.header_image {
+  border-radius: 20px;
+  border: 1px solid rgb(97, 11, 11);
+  width: 100%;
 
-   .subtitle{
-     border: 3px solid purple;
-     color:white;
-     font-style: italic;
-     text-transform:uppercase;
-     width: 100px;
-     background-color: black;
-    }
-     
-
-   a{
-     text-decoration: underline;
-     color:lightblue;
-   }
+}
 
 
-    .post_title{
-      font-size: 30px;
-        font-style:italic;
-        margin:0px;
-        margin-bottom: 15px;
-        color:white;
-        text-transform: uppercase;
-          
-    }
+#title {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-style: italic;
+}
 
-    .post{
-        background-color:black;
-        padding: 15px;
-        border:purple 3px solid;
-        border-radius: 15px;
-        border-style: solid;
-        margin-bottom: 15px;
-        font-family:cursive;
-        text-align: center;
-      }
 
-           
-    .post_content{
-      margin:0px;
-      margin-bottom :20px;
-      text-transform: capitalize;
-      color: rgb(250, 132, 250);
-    }
+#title {
+  border-radius: 0px;
+  font-family: cursive;
+  background-color: black;
+  border: rgb(97, 11, 11) 3px solid;
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+}
 
-    
+.subtitle {
+  border: 3px solid rgb(128, 17, 17);
+  color: white;
+  font-style: italic;
+  text-transform: uppercase;
+  width: 100px;
+  background-color: black;
+}
 
-    .post_image{
-      margin-bottom: 20px;
-      border-radius: 50px;
-      border: 1px solid rgb(0, 0, 0);
-      width: 100%;
-    }
 
-    .final_text{
-      text-align: center;
-      color:rgb(178, 63, 189);
-      text-transform: capitalize;
-    }
+a {
+  text-decoration: underline;
+  color: lightblue;
+}
 
-   
 
-  
+.post_title {
+  font-size: 30px;
+  font-style: italic;
+  margin: 0px;
+  margin-bottom: 15px;
+  color: white;
+  text-transform: uppercase;
 
-    
-    
-    
-    
+}
 
-  
+.post {
+  background-color: black;
+  padding: 15px;
+  border: rgb(97, 11, 11) 3px solid;
+  border-radius: 15px;
+  border-style: solid;
+  margin-bottom: 15px;
+  font-family: cursive;
+  text-align: center;
+}
+
+
+.post_content {
+  margin: 0px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+  color: rgb(192, 36, 127);
+}
+
+
+
+.post_image {
+  margin-bottom: 20px;
+  border-radius: 50px;
+  border: 1px solid rgb(0, 0, 0);
+  width: 100%;
+}
+
+.final_text {
+  text-align: center;
+  color: rgb(192, 36, 127);
+  text-transform: capitalize;
+}
+
+#tomino {
+  height: 300px;
+  height: 600px;
+}
+
+#outro {
+  color: rgb(192, 36, 127);
+}
