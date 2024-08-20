@@ -35,6 +35,16 @@ The main section of the site is dedicated to posts about horror manga:
 - **HTML5**
 - **CSS3**
 
+## Future Improvements
+
+While this project serves as a foundational step in my web development journey, there are several areas where it could be enhanced in the future. Potential improvements include:
+
+- **User Authentication**: Implementing a login system to manage user access and personalization.
+- **Animations**: Adding CSS animations to enhance the visual appeal and interactivity of the site.
+
+These enhancements could further enrich the user experience and functionality of the site.
+
+
 ## How to Run the Project
 
 1. Clone the repository:
