@@ -37,12 +37,12 @@ The main section of the site is dedicated to posts about horror manga:
 
 ## Future Improvements
 
-While this project serves as a foundational step in my web development journey, there are several areas where it could be enhanced in the future. Potential improvements include:
+As I look ahead, there are a few exciting ways this project could evolve. I’m considering:
 
-- **User Authentication**: Implementing a login system to manage user access and personalization.
-- **Animations**: Adding CSS animations to enhance the visual appeal and interactivity of the site.
+- **Adding User Authentication**: To allow users to create accounts and personalize their experience on the site.
+- **Integrating a Backend**: To support dynamic content and manage data more effectively.
 
-These enhancements could further enrich the user experience and functionality of the site.
+These updates would not only enhance the functionality but also offer a richer experience for visitors.
 
 
 ## How to Run the Project
