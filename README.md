@@ -49,5 +49,5 @@ These updates would not only enhance the functionality but also offer a richer e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/horror-grotesque-art.git
+   git clone https://github.com/your-username/horror-Grotesque_Horror.git
 
