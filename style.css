@@ -6,7 +6,6 @@ body {
   max-width: 700px;
   margin: auto;
 
-
 }
 
 #title,
@@ -87,7 +86,6 @@ a {
 }
 
 
-
 .post_image {
   margin-bottom: 20px;
   border-radius: 50px;
@@ -108,4 +106,49 @@ a {
 
 #outro {
   color: rgb(192, 36, 127);
+}
+
+/* Responsividade para telas menores (ex: celulares) */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    max-width: 100%;
+  }
+
+  #title {
+    font-size: 30px;
+  }
+
+  .subtitle {
+    width: auto;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .post_title {
+    font-size: 24px;
+  }
+
+  .post {
+    padding: 10px;
+  }
+
+  .post_content {
+    font-size: 16px;
+  }
+
+  .final_text {
+    font-size: 16px;
+  }
+
+  #tomino {
+    height: 300px;
+    width: 100%;
+  }
+
+  .post_image,
+  .header_image {
+    width: 100%;
+    height: auto;
+  }
 }
